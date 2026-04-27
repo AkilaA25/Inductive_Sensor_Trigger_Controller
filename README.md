@@ -54,3 +54,30 @@ If the LDC's full-scale reading on the secondary PCB falls outside `[0, 2048]`, 
 ## Building
 
 Open the project in Code Composer Studio with the MSPM0 SDK installed. Build, then flash via XDS110 (primary board) or pogo-pin fixture (secondary board).
+
+## Media
+
+### PCB Hardware
+
+![EVM-ported PCB](media/pcb_v2.jpg)
+*First-revision PCB, ported from the LaunchPad/EVM.*
+
+![Optimized PCB](media/pcb_v3.jpg)
+*Second-revision optimized PCB, programmed via pogo pins.*
+
+### Demo
+
+![Demo](media/demo.mp4)
+
+(Or, if hosted on YouTube:)
+[Watch the demo](https://youtu.be/YOUR_VIDEO_ID)
+
+### Team
+
+![Team photo 1](media/team_1.jpg)
+
+![Team photo 2](media/team_2.jpg)
+
+## Recognition
+
+Featured by NC State ECE: [Instagram post](https://www.instagram.com/reel/DXY7Jv2DaC1/)
