@@ -1,0 +1,9 @@
+Debug/
+Release/
+*.o
+*.obj
+*.out
+*.map
+*.lst
+*.d
+.launches/
