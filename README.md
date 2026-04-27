@@ -60,17 +60,14 @@ Open the project in Code Composer Studio with the MSPM0 SDK installed. Build, th
 ### PCB Hardware
 
 ![EVM-ported PCB](media/pcb_v2.jpg)
-*First-revision PCB, ported from the LaunchPad/EVM.*
+*First-revision PCB, ported from the LaunchPad/EVM, utilizing EVM parts for LDC and AD3 for reading PWM Signal.*
 
 ![Optimized PCB](media/pcb_v3.jpg)
-*Second-revision optimized PCB, programmed via pogo pins.*
+*Same PCB, utilizing only the Coil as an external unit.*
 
 ### Demo
 
 ![Demo](media/demo.mp4)
-
-(Or, if hosted on YouTube:)
-[Watch the demo](https://youtu.be/YOUR_VIDEO_ID)
 
 ### Team
 
