@@ -57,6 +57,10 @@ Open the project in Code Composer Studio with the MSPM0 SDK installed. Build, th
 
 ## Media
 
+## Recognition
+
+Featured by NC State ECE: [Instagram post](https://www.instagram.com/reel/DXY7Jv2DaC1/)
+
 ### PCB Hardware
 
 ![EVM-ported PCB](media/pcb_v2.jpg)
@@ -74,7 +78,3 @@ https://github.com/user-attachments/assets/26e05707-506c-4c2a-8fe2-b1f03728651a
 ![Team photo 1](media/team_1.jpg)
 
 ![Team photo 2](media/team_2.jpg)
-
-## Recognition
-
-Featured by NC State ECE: [Instagram post](https://www.instagram.com/reel/DXY7Jv2DaC1/)
