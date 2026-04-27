@@ -57,7 +57,7 @@ Open the project in Code Composer Studio with the MSPM0 SDK installed. Build, th
 
 ## Media
 
-## Recognition
+### Recognition
 
 Featured by NC State ECE: [Instagram post](https://www.instagram.com/reel/DXY7Jv2DaC1/)
 
