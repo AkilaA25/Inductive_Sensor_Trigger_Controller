@@ -67,7 +67,7 @@ Open the project in Code Composer Studio with the MSPM0 SDK installed. Build, th
 
 ### Demo
 
-![Demo](media/demo.mp4)
+https://github.com/user-attachments/assets/26e05707-506c-4c2a-8fe2-b1f03728651a
 
 ### Team
 
